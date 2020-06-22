@@ -7,11 +7,11 @@ ScriptsOnlyBuild:
     - Player
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.PaintableSceneViewGrid
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -640,4 +640,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
   - "Assets/\u904A\u6232\u5834\u666F.unity"
-  playerPath: C:/Users/peter/Documents/GitHub/unity_TNU_2DRun/Web
+  playerPath: C:/Users/peter/Documents/GitHub/unity_TNU_2DRun/WEB0
